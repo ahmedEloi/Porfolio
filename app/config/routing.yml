@@ -1,0 +1,7 @@
+portfolio_main:
+    resource: "@portfolioMainBundle/Resources/config/routing.yml"
+    prefix:   /
+
+
+
+
